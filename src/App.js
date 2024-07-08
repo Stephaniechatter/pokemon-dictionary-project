@@ -13,7 +13,7 @@ function App() {
         <Dictionary />
       </main>
       <footer className="App-footer">
-        <small>Coded by Stephanie White</small>
+        <small>Coded by <a href="https://github.com/Stephaniechatter"target="_blank">Stephanie White</a> and is open sourced on <a href="https://github.com/Stephaniechatter/pokemon-dictionary-project"target="_blank">GitHub</a> and hosted on <a href="https://pokedexdictionary.netlify.app/"target="_blank">Netflify</a></small>
       </footer>
     </div>
   );
