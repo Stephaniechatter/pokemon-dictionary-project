@@ -1,5 +1,5 @@
 import React from "react";
-import Meaning from "./Meanings";
+import Meaning from "./Meaning";
 
 export default function Results(props) {
   if (!props.results || !props.results.meanings || props.results.meanings.length === 0) {
