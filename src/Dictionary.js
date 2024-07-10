@@ -63,6 +63,7 @@ export default function Dictionary(props) {
         <Results results={results} />
         <Photos photos={photos} />
       </div>
+      
     );
   } else {
     load();
